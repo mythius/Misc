@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+<minreinforcement>4</minreinforcement>
+<reinforcements>
+	<reinforcement>
+		<lower>1</lower>
+		<upper>12</upper>
+		<divisor>3</divisor>
+	</reinforcement>
+</reinforcements>
+<continent>
+	<name>innerRed</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>r1</territory>
+		<territory>r2</territory>
+		<territory>r3</territory>
+		<territory>r4</territory>
+		<territory>r5</territory>
+		<territory>r7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Red</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>r1</territory>
+		<territory>r2</territory>
+		<territory>r3</territory>
+		<territory>r4</territory>
+		<territory>r5</territory>
+		<territory>r7</territory>
+		<territory>r8</territory>
+	</components>
+</continent>
+<continent>
+	<name>innerGreen</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>g1</territory>
+		<territory>g2</territory>
+		<territory>g3</territory>
+		<territory>g4</territory>
+		<territory>g5</territory>
+		<territory>g6</territory>
+		<territory>g7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Green</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>g1</territory>
+		<territory>g2</territory>
+		<territory>g3</territory>
+		<territory>g4</territory>
+		<territory>g5</territory>
+		<territory>g6</territory>
+		<territory>g7</territory>
+		<territory>g8</territory>
+	</components>
+</continent>
+<continent>
+	<name>innerBlue</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>b1</territory>
+		<territory>b2</territory>
+		<territory>b3</territory>
+		<territory>b4</territory>
+		<territory>b5</territory>
+		<territory>b6</territory>
+		<territory>b7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Blue</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>b1</territory>
+		<territory>b2</territory>
+		<territory>b3</territory>
+		<territory>b4</territory>
+		<territory>b5</territory>
+		<territory>b6</territory>
+		<territory>b7</territory>
+		<territory>b8</territory>
+	</components>
+</continent>
+<continent>
+	<name>innerYellow</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>y1</territory>
+		<territory>y2</territory>
+		<territory>y3</territory>
+		<territory>y4</territory>
+		<territory>y5</territory>
+		<territory>y6</territory>
+		<territory>y7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Yellow</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>y1</territory>
+		<territory>y2</territory>
+		<territory>y3</territory>
+		<territory>y4</territory>
+		<territory>y5</territory>
+		<territory>y6</territory>
+		<territory>y7</territory>
+		<territory>y8</territory>
+	</components>
+</continent>
+<continent>
+	<name>innerPink</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>p1</territory>
+		<territory>p2</territory>
+		<territory>p3</territory>
+		<territory>p4</territory>
+		<territory>p5</territory>
+		<territory>p6</territory>
+		<territory>p7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Pink</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>p1</territory>
+		<territory>p2</territory>
+		<territory>p3</territory>
+		<territory>p4</territory>
+		<territory>p5</territory>
+		<territory>p6</territory>
+		<territory>p7</territory>
+		<territory>p8</territory>
+	</components>
+</continent>
+<continent>
+	<name>innerTeal</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>t1</territory>
+		<territory>t2</territory>
+		<territory>t3</territory>
+		<territory>t4</territory>
+		<territory>t5</territory>
+		<territory>t6</territory>
+		<territory>t7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Teal</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>t1</territory>
+		<territory>t2</territory>
+		<territory>t3</territory>
+		<territory>t4</territory>
+		<territory>t5</territory>
+		<territory>t6</territory>
+		<territory>t7</territory>
+		<territory>t8</territory>
+	</components>
+</continent>
+<continent>
+	<name>innerOrange</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>o1</territory>
+		<territory>o2</territory>
+		<territory>o3</territory>
+		<territory>o4</territory>
+		<territory>o5</territory>
+		<territory>o6</territory>
+		<territory>o7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Orange</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>o1</territory>
+		<territory>o2</territory>
+		<territory>o3</territory>
+		<territory>o4</territory>
+		<territory>o5</territory>
+		<territory>o6</territory>
+		<territory>o7</territory>
+		<territory>o8</territory>
+	</components>
+</continent>
+<continent>
+	<name>innerSilver</name>
+	<bonus>4</bonus>
+	<components>
+		<territory>s1</territory>
+		<territory>s2</territory>
+		<territory>s3</territory>
+		<territory>s4</territory>
+		<territory>s5</territory>
+		<territory>s6</territory>
+		<territory>s7</territory>
+	</components>
+</continent>
+<continent>
+	<name>Silver</name>
+	<bonus>2</bonus>
+	<components>
+		<territory>s1</territory>
+		<territory>s2</territory>
+		<territory>s3</territory>
+		<territory>s4</territory>
+		<territory>s5</territory>
+		<territory>s6</territory>
+		<territory>s7</territory>
+		<territory>s8</territory>
+	</components>
+</continent>
+<continent>
+	<name>Outers</name>
+	<bonus>8</bonus>
+	<components>
+		<territory>r8</territory>
+		<territory>g8</territory>
+		<territory>b8</territory>
+		<territory>y8</territory>
+		<territory>p8</territory>
+		<territory>t8</territory>
+		<territory>o8</territory>
+		<territory>s8</territory>
+	</components>
+</continent>
+<territory>
+	<name>r1</name>
+	<borders>
+		<border>r3</border>
+	</borders>
+	<coordinates>
+		<smallx>386</smallx>
+		<smally>99</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>r2</name>
+	<borders>
+		<border>r3</border>
+	</borders>
+	<coordinates>
+		<smallx>414</smallx>
+		<smally>124</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>r3</name>
+	<borders>
+		<border>r1</border>
+		<border>r2</border>
+		<border>r7</border>
+	</borders>
+	<coordinates>
+		<smallx>409</smallx>
+		<smally>96</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>r4</name>
+	<borders>
+		<border>r7</border>
+	</borders>
+	<coordinates>
+		<smallx>381</smallx>
+		<smally>146</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>r5</name>
+	<borders>
+		<border>r7</border>
+	</borders>
+	<coordinates>
+		<smallx>416</smallx>
+		<smally>77</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>r6</name>
+	<borders>
+		<border>r3</border>
+		<border>r4</border>
+		<border>r5</border>
+	</borders>
+	<coordinates>
+		<smallx>364</smallx>
+		<smally>92</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>r7</name>
+	<borders>
+		<border>r8</border>
+	</borders>
+	<coordinates>
+		<smallx>437</smallx>
+		<smally>127</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>r8</name>
+	<borders>
+		<border>g8</border>
+	</borders>
+	<coordinates>
+		<smallx>433</smallx>
+		<smally>55</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g1</name>
+	<borders>
+		<border>g3</border>
+	</borders>
+	<coordinates>
+		<smallx>544</smallx>
+		<smally>166</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g2</name>
+	<borders>
+		<border>g3</border>
+	</borders>
+	<coordinates>
+		<smallx>557</smallx>
+		<smally>200</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g3</name>
+	<borders>
+		<border>g2</border>
+		<border>g1</border>
+		<border>g7</border>
+	</borders>
+	<coordinates>
+		<smallx>566</smallx>
+		<smally>177</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g4</name>
+	<borders>
+		<border>g7</border>
+	</borders>
+	<coordinates>
+		<smallx>516</smallx>
+		<smally>205</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g5</name>
+	<borders>
+		<border>g7</border>
+	</borders>
+	<coordinates>
+		<smallx>582</smallx>
+		<smally>161</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g6</name>
+	<borders>
+		<border>g4</border>
+		<border>g3</border>
+		<border>g5</border>
+	</borders>
+	<coordinates>
+		<smallx>528</smallx>
+		<smally>151</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g7</name>
+	<borders>
+		<border>g8</border>
+	</borders>
+	<coordinates>
+		<smallx>570</smallx>
+		<smally>218</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>g8</name>
+	<borders>
+		<border>g6</border>
+		<border>b8</border>
+	</borders>
+	<coordinates>
+		<smallx>612</smallx>
+		<smally>182</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b1</name>
+	<borders>
+		<border>b3</border>
+	</borders>
+	<coordinates>
+		<smallx>561</smallx>
+		<smally>364</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b2</name>
+	<borders>
+		<border>b3</border>
+	</borders>
+	<coordinates>
+		<smallx>537</smallx>
+		<smally>389</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b3</name>
+	<borders>
+		<border>b2</border>
+		<border>b1</border>
+		<border>b7</border>
+	</borders>
+	<coordinates>
+		<smallx>561</smallx>
+		<smally>387</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b4</name>
+	<borders>
+		<border>b7</border>
+	</borders>
+	<coordinates>
+		<smallx>512</smallx>
+		<smally>358</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b5</name>
+	<borders>
+		<border>b7</border>
+	</borders>
+	<coordinates>
+		<smallx>584</smallx>
+		<smally>393</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b6</name>
+	<borders>
+		<border>b4</border>
+		<border>b3</border>
+		<border>b5</border>
+	</borders>
+	<coordinates>
+		<smallx>563</smallx>
+		<smally>340</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b7</name>
+	<borders>
+		<border>b8</border>
+	</borders>
+	<coordinates>
+		<smallx>527</smallx>
+		<smally>412</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>b8</name>
+	<borders>
+		<border>b6</border>
+		<border>y8</border>
+	</borders>
+	<coordinates>
+		<smallx>482</smallx>
+		<smally>368</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y1</name>
+	<borders>
+		<border>y3</border>
+	</borders>
+	<coordinates>
+		<smallx>373</smallx>
+		<smally>493</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y2</name>
+	<borders>
+		<border>y3</border>
+	</borders>
+	<coordinates>
+		<smallx>338</smallx>
+		<smally>487</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y3</name>
+	<borders>
+		<border>y7</border>
+		<border>y2</border>
+		<border>y1</border>
+	</borders>
+	<coordinates>
+		<smallx>353</smallx>
+		<smally>507</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y4</name>
+	<borders>
+		<border>y7</border>
+	</borders>
+	<coordinates>
+		<smallx>353</smallx>
+		<smally>452</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y5</name>
+	<borders>
+		<border>y7</border>
+	</borders>
+	<coordinates>
+		<smallx>359</smallx>
+		<smally>530</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y6</name>
+	<borders>
+		<border>y4</border>
+		<border>y3</border>
+		<border>y5</border>
+	</borders>
+	<coordinates>
+		<smallx>395</smallx>
+		<smally>492</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y7</name>
+	<borders>
+		<border>y8</border>
+	</borders>
+	<coordinates>
+		<smallx>316</smallx>
+		<smally>495</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>y8</name>
+	<borders>
+		<border>y6</border>
+		<border>p8</border>
+	</borders>
+	<coordinates>
+		<smallx>395</smallx>
+		<smally>441</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p1</name>
+	<borders>
+		<border>p3</border>
+	</borders>
+	<coordinates>
+		<smallx>211</smallx>
+		<smally>487</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p2</name>
+	<borders>
+		<border>p3</border>
+	</borders>
+	<coordinates>
+		<smallx>185</smallx>
+		<smally>460</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p3</name>
+	<borders>
+		<border>p2</border>
+		<border>p1</border>
+		<border>p7</border>
+	</borders>
+	<coordinates>
+		<smallx>185</smallx>
+		<smally>485</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p4</name>
+	<borders>
+		<border>p7</border>
+	</borders>
+	<coordinates>
+		<smallx>215</smallx>
+		<smally>439</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p5</name>
+	<borders>
+		<border>p7</border>
+	</borders>
+	<coordinates>
+		<smallx>177</smallx>
+		<smally>507</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p6</name>
+	<borders>
+		<border>p5</border>
+		<border>p3</border>
+		<border>p4</border>
+	</borders>
+	<coordinates>
+		<smallx>230</smallx>
+		<smally>495</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p7</name>
+	<borders>
+		<border>p8</border>
+	</borders>
+	<coordinates>
+		<smallx>167</smallx>
+		<smally>447</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>p8</name>
+	<borders>
+		<border>p6</border>
+		<border>t8</border>
+	</borders>
+	<coordinates>
+		<smallx>208</smallx>
+		<smally>535</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t1</name>
+	<borders>
+		<border>t3</border>
+	</borders>
+	<coordinates>
+		<smallx>79</smallx>
+		<smally>403</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t2</name>
+	<borders>
+		<border>t3</border>
+	</borders>
+	<coordinates>
+		<smallx>73</smallx>
+		<smally>367</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t3</name>
+	<borders>
+		<border>t2</border>
+		<border>t1</border>
+		<border>t7</border>
+	</borders>
+	<coordinates>
+		<smallx>59</smallx>
+		<smally>387</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t4</name>
+	<borders>
+		<border>t7</border>
+	</borders>
+	<coordinates>
+		<smallx>112</smallx>
+		<smally>368</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t5</name>
+	<borders>
+		<border>t7</border>
+	</borders>
+	<coordinates>
+		<smallx>39</smallx>
+		<smally>401</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t6</name>
+	<borders>
+		<border>t5</border>
+		<border>t3</border>
+		<border>t4</border>
+	</borders>
+	<coordinates>
+		<smallx>86</smallx>
+		<smally>423</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t7</name>
+	<borders>
+		<border>t8</border>
+	</borders>
+	<coordinates>
+		<smallx>65</smallx>
+		<smally>347</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>t8</name>
+	<borders>
+		<border>t6</border>
+		<border>o8</border>
+	</borders>
+	<coordinates>
+		<smallx>83</smallx>
+		<smally>320</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o1</name>
+	<borders>
+		<border>o3</border>
+	</borders>
+	<coordinates>
+		<smallx>94</smallx>
+		<smally>222</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o2</name>
+	<borders>
+		<border>o3</border>
+	</borders>
+	<coordinates>
+		<smallx>118</smallx>
+		<smally>195</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o3</name>
+	<borders>
+		<border>o1</border>
+		<border>o2</border>
+		<border>o7</border>
+	</borders>
+	<coordinates>
+		<smallx>95</smallx>
+		<smally>197</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o4</name>
+	<borders>
+		<border>o7</border>
+	</borders>
+	<coordinates>
+		<smallx>143</smallx>
+		<smally>221</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o5</name>
+	<borders>
+		<border>o7</border>
+	</borders>
+	<coordinates>
+		<smallx>71</smallx>
+		<smally>193</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o6</name>
+	<borders>
+		<border>o3</border>
+		<border>o4</border>
+		<border>o5</border>
+	</borders>
+	<coordinates>
+		<smallx>92</smallx>
+		<smally>246</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o7</name>
+	<borders>
+		<border>o8</border>
+	</borders>
+	<coordinates>
+		<smallx>120</smallx>
+		<smally>172</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>o8</name>
+	<borders>
+		<border>o6</border>
+		<border>s8</border>
+	</borders>
+	<coordinates>
+		<smallx>99</smallx>
+		<smally>268</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s1</name>
+	<borders>
+		<border>s3</border>
+	</borders>
+	<coordinates>
+		<smallx>212</smallx>
+		<smally>92</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s2</name>
+	<borders>
+		<border>s3</border>
+	</borders>
+	<coordinates>
+		<smallx>247</smallx>
+		<smally>87</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s3</name>
+	<borders>
+		<border>s1</border>
+		<border>s2</border>
+		<border>s7</border>
+	</borders>
+	<coordinates>
+		<smallx>230</smallx>
+		<smally>72</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s4</name>
+	<borders>
+		<border>s7</border>
+	</borders>
+	<coordinates>
+		<smallx>246</smallx>
+		<smally>125</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s5</name>
+	<borders>
+		<border>s7</border>
+	</borders>
+	<coordinates>
+		<smallx>217</smallx>
+		<smally>55</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s6</name>
+	<borders>
+		<border>s3</border>
+		<border>s4</border>
+		<border>s5</border>
+	</borders>
+	<coordinates>
+		<smallx>192</smallx>
+		<smally>102</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s7</name>
+	<borders>
+		<border>s8</border>
+	</borders>
+	<coordinates>
+		<smallx>270</smallx>
+		<smally>85</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+<territory>
+	<name>s8</name>
+	<borders>
+		<border>s6</border>
+		<border>r8</border>
+	</borders>
+	<coordinates>
+		<smallx>233</smallx>
+		<smally>153</smally>
+		<largex>0</largex>
+		<largey>0</largey>
+	</coordinates>
+</territory>
+</map>
